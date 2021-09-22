@@ -5,10 +5,6 @@
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
   
 <p align="center">
-   [![Stars](https://img.shields.io/github/stars/SenuGamerBoy/Auto-Filter-v1?style=flat-square&color=yellow)](https://github.com/SenuGamerBoy/Auto-Filter-v1/stargazers)
-</p>
-
-<p align="center">
   <a href="https://github.com/SenuGamerBoy/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
@@ -18,6 +14,9 @@
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=SenuGamerBoy/Anim_Manager_Old)
 > ⭐️ Thanks to everyone who starred Anim Manager, That is the greatest pleasure we have !
 
+  [![Stars](https://img.shields.io/github/stars/SenuGamerBoy/Auto-Filter-v1?style=flat-square&color=yellow)](https://github.com/SenuGamerBoy/Auto-Filter-v1/stargazers)
+  
+  
 # 🏃‍♂️ Easy Deploy 
 <p><a href="https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_Heroku.md"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="180""/></a></p> 
 
