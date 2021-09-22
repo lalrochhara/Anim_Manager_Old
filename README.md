@@ -14,7 +14,7 @@
 > ⭐️ Thanks to everyone who starred Anim Manager, That is the greatest pleasure we have !
 
 # 🏃‍♂️ Easy Deploy 
- * [deploy To Heroku](https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_Heroku.md)
+ * [*deploy To Heroku*](https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_Heroku.md)
   
 ```
 
