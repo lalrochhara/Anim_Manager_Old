@@ -52,4 +52,6 @@
 ## After 5 Minit 
   * Go To Your Bot And Start
   
+  <img src="https://github.com/matheusfelipeog/matheusfelipeog/blob/master/.github/assets/images/rodape_readme.gif" alt="animated matrix art for footer readme.md" />
+
   
