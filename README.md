@@ -14,9 +14,10 @@
 > ⭐️ Thanks to everyone who starred Anim Manager, That is the greatest pleasure we have !
 
 # 🏃‍♂️ Easy Deploy 
- * [*deploy To Heroku*](https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_Heroku.md)
-  <p><a href="https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_Heroku.md"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
-  
+<p><a href="https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_Heroku.md"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
+
+<p><a href="https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_Heroku.md"> <img src="https://img.shields.io/badge/deploy%20To%20VPS-%F0%9F%92%A1-yellowgreen-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
+
 ```
 
 This bot was created by enSenuGamerBoy! It's okay to do this boat fork, but if you're changing something there, give me the credit to get a smile from my hard work.
