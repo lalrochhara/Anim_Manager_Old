@@ -2,7 +2,7 @@
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
-`python3 -m tg_bot`
+`python3 -m Anim_Manager`
 
 
 ## Setting up the bot (Read this before trying to use!):
@@ -14,7 +14,7 @@ This is because markdown parsing is done by iterating through a dict, which are 
 There are two possible ways of configuring your bot: a config.py file, or ENV variables.
 
 The prefered version is to use a `config.py` file, as it makes it easier to see all your settings grouped together.
-This file should be placed in your `tg_bot` folder, alongside the `__main__.py` file . 
+This file should be placed in your `Anim_Manager` folder, alongside the `__main__.py` file . 
 This is where your bot token will be loaded from, as well as your database URI (if you're using a database), and most of 
 your other settings.
 
