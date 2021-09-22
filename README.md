@@ -35,9 +35,9 @@ Powered by Senuinfinity
 # 🔮My Updates Channel [Senu Infinity](https://t.me/senuinfinity)
 [![Stars](https://img.shields.io/github/stars/SenuGamerBoy/Anim_Manager_Old?style=flat-square&color=yellow)](https://github.com/SenuGamerBoy/Anim_Manager_Old/stargazers)
 [![Forks](https://img.shields.io/github/forks/SenuGamerBoy/Anim_Manager_Old?style=flat-square&color=orange)](https://github.com/SenuGamerBoy/Anim_Manager_Old/fork)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SenuGamerBoy/Anim_Manager_Old)   
-[[Hits(https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2FSenuGamerBoy%2FAnim_Manager_Old&count_bg=%2379C83D&title_bg=%23555555&icon=twoo.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SenuGamerBoy/Anim_Manager_Old) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSenuGamerBoy%2FAnim_Manager_Old&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)  
+
 
   
 
