@@ -1,8 +1,8 @@
 ## How to Develop 
 <br>
  <p>First Fork This Repo</p>
- * After Fill Config.py
- * Now click On This Button
+ <p>After Fill Config.py</p>
+ <p>Now click On This Button</p>
 
   
   
