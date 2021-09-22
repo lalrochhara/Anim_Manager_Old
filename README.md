@@ -10,7 +10,7 @@
 <p align="center"><a href="https://t.me/senuinfinity"><img src="https://telegra.ph/file/4e625c821b19d9fc6bdb9.png" width="400"></a></p>
 <p align="center">
   
-![GitHub Contributors Image](https://contrib.rocks/image?repo=SenuGamerBoy/Anim_Manager)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=SenuGamerBoy/Anim_Manager_Old)
 > ⭐️ Thanks to everyone who starred Anim Manager, That is the greatest pleasure we have !
 
 # 🏃‍♂️ Easy Deploy 
