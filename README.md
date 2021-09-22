@@ -58,6 +58,6 @@ The Advanced Branch (For PRO's)
 ## Senu Infinity (advanced 😏)
 
 ## Special Credits
-- [Senu Gamer Boy](https://github.com/SenuGamerBoy) - Developer of Project ❤️
+- [Senu Gamer Boy](https://github.com/SenuGamerBoy) - Developer of Project ❤️ 
 - [Senu In͏i͏f͏i͏n͏i͏t͏y͏](https://t.me/senuinfinity) - Main Updates Channel ⭐️
 
