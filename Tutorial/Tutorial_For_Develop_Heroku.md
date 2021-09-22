@@ -46,6 +46,6 @@
   - Connct Your Github Account And Select Forked Repo
   * Now Manual deplop
   
-  <p align="center"><a href="https://t.me/senuinfinity"><img src="https://telegra.ph/file/720144065e5a5e43bcf53.jpg" width="500"></a></p>
+  <p align="center"><a href="https://t.me/senuinfinity"><img src="https://telegra.ph/file/720144065e5a5e43bcf53.jpg" width="900"></a></p>
   <p align="center">
   
