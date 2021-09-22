@@ -1,14 +1,14 @@
-How to Develop 
+## How to Develop 
 <br>
 - First Fork This Repo
 - Now click On This Button
 <p><a href="https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Anim_Manager_Old"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
   
   
-* Fill All Vars
-&nbsp&nbsp&nbsp    - `ENV`: Setting this to ANYTHING will enable env variables
+## Fill All Vars
+ - `ENV`: Setting this to ANYTHING will enable env variables
 
-&nbsp&nbsp&nbsp - `TOKEN`: Your bot token, as a string.
+ - `TOKEN`: Your bot token, as a string.
  - `OWNER_ID`: An integer of consisting of your owner ID
  - `OWNER_USERNAME`: Your username
 
