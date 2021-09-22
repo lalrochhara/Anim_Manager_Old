@@ -15,6 +15,15 @@
 
 # 🏃‍♂️ Easy Deploy 
 <p><a href="https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Anim_Manager_Old"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+  
+```
+
+This Bot Is Created By @SenuGamerBoy ! if your kanging this without fork at least give a credit to get a smile of my hard work.
+
+
+
+
+```
 
 # 🔮My Updates Channel [Senu Infinity](https://t.me/senuinfinity)
 
