@@ -18,8 +18,9 @@
   
 ```
 
-This Bot Is Created By @SenuGamerBoy ! if your kanging this without fork at least give a credit to get a smile of my hard work.
+This bot was created by enSenuGamerBoy! It's okay to do this boat fork, but if you're changing something there, give me the credit to get a smile from my hard work.
 
+Powered by Senuinfinity
 
 
 
