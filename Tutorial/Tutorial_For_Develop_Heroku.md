@@ -6,9 +6,9 @@ How to Develop
   
   
 * Fill All Vars
-    - `ENV`: Setting this to ANYTHING will enable env variables
+&nbsp&nbsp&nbsp    - `ENV`: Setting this to ANYTHING will enable env variables
 
- - `TOKEN`: Your bot token, as a string.
+&nbsp&nbsp&nbsp - `TOKEN`: Your bot token, as a string.
  - `OWNER_ID`: An integer of consisting of your owner ID
  - `OWNER_USERNAME`: Your username
 
