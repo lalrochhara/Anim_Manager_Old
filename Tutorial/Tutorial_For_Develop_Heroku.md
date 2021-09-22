@@ -39,5 +39,5 @@
 ## After On Resources 
   Click On Manage App »»» Go To Resources Tab »»» On Resources »»» 
   
-<p align="center"><a href="https://t.me/senuinfinity"><img src="https://telegra.ph/file/c33e232ade18c04ac4107.jpg" width="200"></a></p>
+<p align="center"><a href="https://t.me/senuinfinity"><img src="https://telegra.ph/file/c33e232ade18c04ac4107.jpg" width="500"></a></p>
 <p align="center">
