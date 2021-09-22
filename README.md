@@ -14,14 +14,15 @@
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=SenuGamerBoy/Anim_Manager_Old)
 > ⭐️ Thanks to everyone who starred Anim Manager, That is the greatest pleasure we have !
 
-  [![Stars](https://img.shields.io/github/stars/SenuGamerBoy/Auto-Filter-v1?style=flat-square&color=yellow)](https://github.com/SenuGamerBoy/Auto-Filter-v1/stargazers)
-  
   
 # 🏃‍♂️ Easy Deploy 
 <p><a href="https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_Heroku.md"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="180""/></a></p> 
 
 <a href="https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_VPS.md" alt="SenuGamerBoy"> <img src="https://img.shields.io/badge/Develop_To_VPS-107D8D?style=for-the-badge&logo=appveyor=github" /></a>
 
+  [![Stars](https://img.shields.io/github/stars/SenuGamerBoy/Anim_Manager_Old?style=flat-square&color=yellow)](https://github.com/SenuGamerBoy/Anim_Manager_Old/stargazers)
+  
+  
 ```
 
 This bot was created by enSenuGamerBoy! It's okay to do this boat fork, but if you're changing something there, give me the credit to get a smile from my hard work.
