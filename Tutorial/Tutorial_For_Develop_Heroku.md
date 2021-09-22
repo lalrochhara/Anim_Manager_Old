@@ -32,7 +32,12 @@
  - `WORKERS`: Number of threads to use. 8 is the recommended (and default) amount, but your experience may vary.
  __Note__ that going crazy with more threads wont necessarily speed up your bot, given the large amount of sql data 
  accesses, and the way python asynchronous calls work.
+
  - `BAN_STICKER`: Which sticker to use when banning people.
  - `ALLOW_EXCL`: Whether to allow using exclamation marks ! for commands as well as /.
-
   
+## After On Resources 
+  Click On Manage App »»» Go To Resources Tab »»» On Resources »»» 
+  
+<p align="center"><a href="https://t.me/senuinfinity"><img src="https://telegra.ph/file/c33e232ade18c04ac4107.jpg" width="50"></a></p>
+<p align="center">
