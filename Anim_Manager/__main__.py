@@ -29,7 +29,7 @@ PM_START_TEXT = """
 **Hello {}, My Name is {}!** 
 
 I am an advanced group management bot by @senuinfinity.💫
-I can manage your group very easily & safely. You can keep trust on me without any doubt. I am like a public userbot.🔥
+I can manage your group very easily & safely.
 
 Try using me!⚡️
 
@@ -48,12 +48,12 @@ Main commands are mentioned below.
 👇👇👇👇👇👇👇👇👇👇👇👇
 
 Main commands available:
- 💠 - /start: start the bot
- 💠 - /help: PM's you this message.
- 💠 - /help <module name>: PM's you info about that module.
- 💠 - /settings:
-    🔹- in PM: will send you your settings for all supported modules.
-    🔹- in a group: will redirect you to pm, with all that chat's settings.
+- /start: start the bot
+- /help: PM's you this message.
+- /help <module name>: PM's you info about that module.
+- /settings:
+   - in PM: will send you your settings for all supported modules.
+   - in a group: will redirect you to pm, with all that chat's settings.
 
 
 All commands can either be used with / or !.
@@ -61,7 +61,7 @@ All commands can either be used with / or !.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-TECHNO_IMG = "https://telegra.ph/file/f782f63a91338062ba6d8.jpg"
+TECHNO_IMG = "https://telegra.ph/file/21a08c7924751afa069cc.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
@@ -162,7 +162,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                                  ]]))
 
     else:
-        update.effective_message.reply_text("👋𝓱𝓲, 𝓘 𝓪𝓶 𝓷𝓸𝔀 𝓞𝓷𝓵𝓲𝓷𝓮, 𝔂𝓪𝔂!🥳")
+        update.effective_message.reply_text("I Am Online @senuinfinity")
 
 
 def send_start(bot, update):
@@ -261,7 +261,7 @@ def get_help(bot: Bot, update: Update):
     # ONLY send help in PM
     if chat.type != chat.PRIVATE:
 
-        update.effective_message.reply_text("👋 Hi,Contact me in Direct Message to get the help 😏.",
+        update.effective_message.reply_text("Contact me in Direct Message to get the help.",
                                             reply_markup=InlineKeyboardMarkup(
                                                 [[InlineKeyboardButton(text="Help 💬",
                                                                        url="t.me/{}?start=help".format(
