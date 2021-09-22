@@ -14,7 +14,7 @@
 > ⭐️ Thanks to everyone who starred Anim Manager, That is the greatest pleasure we have !
 
 # 🏃‍♂️ Easy Deploy 
-<p><a href="https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Anim_Manager"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Anim_Manager_Old"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 # 🔮My Updates Channel [Senu Infinity](https://t.me/senuinfinity)
 
