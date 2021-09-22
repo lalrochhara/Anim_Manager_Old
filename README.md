@@ -42,6 +42,7 @@ Powered by Senuinfinity
  - Skylee
  - emilia
  - Induwara Edirisooriya 
+ - LEGEND X 
 
 # Special Credits
 
