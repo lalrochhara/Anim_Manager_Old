@@ -16,7 +16,7 @@
 # 🏃‍♂️ Easy Deploy 
 <p><a href="https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_Heroku.md"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
 
-<a href="https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_VPS.md" alt="SenuGamerBoy"> <img src="https://img.shields.io/badge/Develop_To_VPS-107D8D?logo=github" /></a>
+<a href="https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_VPS.md" alt="SenuGamerBoy"> <img src="https://img.shields.io/badge/Develop_To_VPS-107D8D?style=for-the-badge&logo=appveyor=github" /></a>
 
 ```
 
