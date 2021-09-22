@@ -38,7 +38,7 @@ Powered by Senuinfinity
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SenuGamerBoy/Anim_Manager_Old) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSenuGamerBoy%2FAnim_Manager_Old&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-
+<br>
   
 
 # ❤️ Support
