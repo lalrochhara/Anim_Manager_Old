@@ -20,7 +20,6 @@
 
 <a href="https://github.com/SenuGamerBoy/Anim_Manager_Old/blob/Anim_Manager/Tutorial/Tutorial_For_Develop_VPS.md" alt="SenuGamerBoy"> <img src="https://img.shields.io/badge/Develop_To_VPS-107D8D?style=for-the-badge&logo=appveyor=github" /></a>
 
-  [![Stars](https://img.shields.io/github/stars/SenuGamerBoy/Anim_Manager_Old?style=flat-square&color=yellow)](https://github.com/SenuGamerBoy/Anim_Manager_Old/stargazers)
   
   
 ```
