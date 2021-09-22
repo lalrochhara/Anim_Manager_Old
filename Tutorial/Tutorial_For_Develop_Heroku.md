@@ -1,10 +1,9 @@
-## How to Develop 
+## How to Developy 
 <br>
  <p>First Fork This Repo</p>
- <p>After Fill Config.py</p>
+ <p>After Fill sample_config.py  ( Go To Anim_Manager Folder >> Edit sample_config.py )</p>
  <p>Now click On This Button</p>
 <p><a href="https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Anim_Manager_Old"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p> 
-
   
   
 ## Fill All Vars
