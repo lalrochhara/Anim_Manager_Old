@@ -1,9 +1,8 @@
 ## How to Develop 
 <br>
-* First Fork This Repo
-* After Fill Config.py
-
-* Now click On This Button
+ * First Fork This Repo
+ * After Fill Config.py
+ * Now click On This Button
 
   
   
