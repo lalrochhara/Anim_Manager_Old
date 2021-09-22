@@ -49,3 +49,7 @@
   <p align="center"><a href="https://t.me/senuinfinity"><img src="https://telegra.ph/file/720144065e5a5e43bcf53.jpg" width="900"></a></p>
   <p align="center">
   
+## After 5 Minit 
+  * Go To Your Bot And Start
+  
+  
