@@ -62,8 +62,6 @@ Powered by Senuinfinity
 
 Anything missing kindly let us know at [Senu Infinity Support](https://t.me/senuinfinitygroup) or simply submit a pull request on the readme.
 
-Should any be missing kindly let us know at [Senu In͏i͏f͏i͏n͏i͏t͏y͏](https://t.me/senuinfinity) or simply submit a pull request on the readme.
-
 ## Anim Manager the telegram Bot Project
 The Advanced Branch (For PRO's)
 
