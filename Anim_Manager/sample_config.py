@@ -15,9 +15,7 @@ class Config(object):
     OWNER_NAME = "SenuGamerBoy"
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'  # needed for any database modules
     LOAD = []
-    NO_LOAD = ['translation', 'rss']
     WEBHOOK = False
     URL = https://<appname>.herokuapp.com/
     ENV = ANYTHING
@@ -31,10 +29,7 @@ class Config(object):
     PORT = None
     DEL_CMDS = False  # Whether or not you should delete "blue text must click" commands
     STRICT_GBAN = False
-    WORKERS = 8  # Number of subthreads to use. This is the recommended amount - see for yourself what works best!
     ALLOW_EXCL = True  # Allow ! commands as well as /
-    API_OPENWEATHER = "5c5adc2bc1832de6943e3f4467e84c39"
-    CASH_API_KEY = "-xyz"
     GBAN_LOGS = [] # Gban log channel, include the hyphen too: ex: -123456 . Get ID From @AnimXinfo_Robot
 
 
