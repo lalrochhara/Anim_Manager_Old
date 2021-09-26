@@ -26,14 +26,11 @@ from Anim_Manager.modules.helper_funcs.misc import paginate_modules
 
 
 PM_START_TEXT = """
-**Hello {}, My Name is {}!** 
+**Hellow There {} I'm {} 🍑!** 
 
-I am an advanced group management bot by @senuinfinity.💫
-I can manage your group very easily & safely.
+I'm a Powerfull group manager bot With Cool Modules. Made My @senuinfinity
 
-Try using me!⚡️
-
-/help Use For Get Command
+hit /help to Find my list of available commands 🕹
 
 """
 
