@@ -151,11 +151,11 @@ def start(bot: Bot, update: Update, args: List[str]):
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="❓ Help ❓",
                                                                        callback_data="help_back".format(bot.username)),
                                                                                    InlineKeyboardButton(text="My 𝙽𝚎𝚠𝚜 🙋",
-                                                                       url="https://t.me/senuinfinity")],
+                                                                       url="https://t.me/MaX_Bots")],
                                                                                    [InlineKeyboardButton(text="➕ Add To Group ➕",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
                                                                                    InlineKeyboardButton(text="𝚂𝚞𝚙𝚙𝚘𝚛𝚝 💬",
-                                                                       url="https://t.me/senuinfinitygroup")
+                                                                       url="https://t.me/MaX_Bots")
                                                                                  ]]))
 
     else:
