@@ -28,7 +28,7 @@ from Anim_Manager.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 **Hellow There {} I'm {} 🍑!** 
 
-I'm a Powerfull group manager bot With Cool Modules. Made My @senuinfinity
+I'm a Powerfull group manager bot With Cool Modules. Made My @MaX_Bots
 
 hit /help to Find my list of available commands 🕹
 
