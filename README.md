@@ -8,7 +8,7 @@
   <a href="https://github.com/SenuGamerBoy/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/senuinfinity"><img src="https://telegra.ph/file/4e625c821b19d9fc6bdb9.png" width="400"></a></p>
+<p align="center"><a href="https://t.me/MaX_Bots"><img src="https://telegra.ph/file/4e625c821b19d9fc6bdb9.png" width="400"></a></p>
 <p align="center">
   
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=SenuGamerBoy/Anim_Manager_Old)
@@ -24,7 +24,7 @@
   
 ```
 
-This bot was created by enSenuGamerBoy! It's okay to do this boat fork, but if you're changing something there, give me the credit to get a smile from my hard work.
+This bot was created by SenuGamerBoy! It's okay to do this boat fork, but if you're changing something there, give me the credit to get a smile from my hard work.
 
 Powered by Senuinfinity
 
